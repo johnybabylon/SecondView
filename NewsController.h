@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  NewsController.h
 //  SecondView
 //
 //  Created by elliott chavis on 12/24/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface NewsController : UICollectionViewController
 
 @end
-
